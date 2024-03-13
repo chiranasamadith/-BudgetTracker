@@ -1,0 +1,20 @@
+# Budget Tracker
+
+The Budget Tracker is a simple Java application designed to help users manage their finances by tracking their expenses within various categories and providing insights into their total budget.
+
+## Features
+
+- **Add Budget:** Users can input their expenses by specifying the date, category, and amount spent.
+- **Display Budget:** The application allows users to view their expenses categorized by date and category.
+- **Total Budget:** Users can retrieve the total amount spent across all categories.
+
+## How to Use
+
+1. **Clone the Repository:** Clone the repository to your local machine using the following command:
+
+    https://github.com/chiranasamadith/-BudgetTracker.git
+
+
+2. **Compile and Run:** Compile the Java files and run the Main class to launch the Budget Tracker application.
+
+3. **Follow the Menu:** The application will display a menu with options to add expenses, display expenses, check the total budget, or exit the program. Follow the prompts to navigate through the menu.
